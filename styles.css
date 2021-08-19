@@ -1,11 +1,11 @@
 body{
     font-family: 'Tangerine', cursive;
-    margin-left: 0px;
-    margin-top: 0px;
-    margin-left: 0px;
+    margin: 0px 0px;
 }
 
 .top{
+    margin: 0px 0px;
+    width: 100%;
     text-align: center;
     font-family: 'Tangerine', cursive;
     font-style: italic;
